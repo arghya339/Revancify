@@ -174,5 +174,27 @@
                 "repo": "revanced-integrations"
             }
         }
-    }
+    },
+   "arghya339":
+   {
+      "projectName": "YTM-Android_5-6",
+       "sources":
+       {
+           "cli":
+           {
+               "org": "arghya339",
+               "repo": "ytm-cli-android5-6"
+           },
+           "patches":
+           {
+               "org": "arghya339",
+               "repo": "ytm-patches-android5-6"
+           },
+           "integrations":
+           {
+               "org": "arghya339",
+               "repo": "ytm-integrations-android5-6"
+           }
+       }
+   }
 }
