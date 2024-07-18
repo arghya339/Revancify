@@ -210,12 +210,12 @@
            "patches":
            {
                "org": "arghya339",
-               "repo": "revanced-patches-android6-7"
+               "repo": "rvx-patches-a6-7"
            },
            "integrations":
            {
                "org": "arghya339",
-               "repo": "revanced-integrations-android6-7"
+               "repo": "rvx-integrations-a6-7"
            }
        }
    }
