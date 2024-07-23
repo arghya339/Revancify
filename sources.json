@@ -197,6 +197,28 @@
            }
        }
    },
+    "inotia":
+   {
+      "projectName": "Reddit_Latest",
+       "sources":
+       {
+           "cli":
+           {
+               "org": "inotia00",
+               "repo": "revanced-cli-arsclib"
+           },
+           "patches":
+           {
+               "org": "inotia00",
+               "repo": "revanced-patches-arsclib"
+           },
+           "integrations":
+           {
+               "org": "arghya339",
+               "repo": "revanced-integrations"
+           }
+       }
+   },
     "arghyadeep339":
    {
       "projectName": "YV-Android_6-7",
