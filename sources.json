@@ -175,70 +175,26 @@
             }
         }
     },
-   "arghya339":
-   {
-      "projectName": "YTM-Android_5-6",
-       "sources":
-       {
-           "cli":
-           {
-               "org": "arghya339",
-               "repo": "ytm-cli-android5-6"
-           },
-           "patches":
-           {
-               "org": "arghya339",
-               "repo": "ytm-patches-android5-6"
-           },
-           "integrations":
-           {
-               "org": "arghya339",
-               "repo": "ytm-integrations-android5-6"
-           }
-       }
-   },
-    "inotia":
-   {
-      "projectName": "Reddit_Latest",
-       "sources":
-       {
-           "cli":
-           {
-               "org": "inotia00",
-               "repo": "revanced-cli-arsclib"
-           },
-           "patches":
-           {
-               "org": "inotia00",
-               "repo": "revanced-patches-arsclib"
-           },
-           "integrations":
-           {
-               "org": "inotia00",
-               "repo": "revanced-integrations"
-           }
-       }
-   },
-    "arghyadeep339":
-   {
-      "projectName": "YV-Android_6-7",
-       "sources":
-       {
-           "cli":
-           {
+    "arghya339":
+    {
+        "projectName": "YV-Android_6-7",
+        "sources":
+        {
+            "cli":
+            {
                "org": "kitadai31",
                "repo": "revanced-cli"
-           },
-           "patches":
-           {
+            },
+            "patches":
+            {
                "org": "arghya339",
                "repo": "revanced-patches-android6-7"
-           },
-           "integrations":
-           {
+            },
+            "integrations":
+            {
                "org": "arghya339",
                "repo": "revanced-integrations"
-           }
-       }
-   }
+            }
+        }
+    }
 }
