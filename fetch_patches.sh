@@ -126,7 +126,7 @@ if [ "$2" == "online" ]; then
         -H 'Accept: application/json' \
         -H 'Content-Type: application/json' \
         -H 'Authorization: Basic YXBpLXRvb2xib3gtZm9yLWdvb2dsZS1wbGF5OkNiVVcgQVVMZyBNRVJXIHU4M3IgS0s0SCBEbmJL' \
-        -H 'User-Agent: Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5414.86 Mobile Safari/537.36' \
+        -H 'User-Agent: Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36' \
         -d "$(jq -n --argjson pkgs "$pkgs" '{"pnames": $pkgs}')")
 
     if ! responseJson=$(
